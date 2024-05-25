@@ -169,6 +169,9 @@ nav {
     border-radius: 50%;
 }
 
+.profile-texts p{
+    color: #303633;
+}
 section{
     padding-top: 23vh;
     height: 96vh;
